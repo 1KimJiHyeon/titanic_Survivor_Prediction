@@ -1,1 +1,1 @@
-# titanic_Survivor_Prediction
+# Titanic_Survivor_Prediction
